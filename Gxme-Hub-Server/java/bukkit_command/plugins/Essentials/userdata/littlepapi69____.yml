@@ -1,0 +1,21 @@
+timestamps:
+  login: 1646423215351
+  logout: 1646423883205
+  lastteleport: 1646423706450
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -428.6037317871108
+  y: 77.0
+  z: 93.89608347604636
+  yaw: 349.96045
+  pitch: 78.6
+logoutlocation:
+  world: world
+  x: -427.5482940031255
+  y: 62.44585883712502
+  z: 97.67109017400301
+  yaw: 349.96045
+  pitch: 78.6
+afk: false
+nickname: littlepapi

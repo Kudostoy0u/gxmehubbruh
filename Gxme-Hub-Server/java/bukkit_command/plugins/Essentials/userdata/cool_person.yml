@@ -1,0 +1,16 @@
+lastlocation:
+  world: world
+  x: -222.5
+  y: 65.0
+  z: 270.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -180.64705750529183
+  y: 71.0
+  z: 244.17891273562324
+  yaw: 239.56012
+  pitch: -90.0
+timestamps:
+  logout: 1643820236314

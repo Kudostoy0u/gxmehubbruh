@@ -1,0 +1,24 @@
+timestamps:
+  login: 1643831579355
+  logout: 1643832036371
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -210.51801880110946
+  y: 67.4807108763317
+  z: 257.0173813620167
+  yaw: 260.26013
+  pitch: 15.899993
+afk: false
+ban:
+  reason: '§4Banned:
+
+    §rimposter'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: -210.72408458587068
+  y: 69.0
+  z: 242.3003380919174
+  yaw: 111.31015
+  pitch: 15.749993

@@ -1,0 +1,29 @@
+timestamps:
+  login: 1648077071003
+  lastteleport: 1648058418576
+  logout: 1648077082289
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -1620.5073511264532
+  y: 52.0
+  z: -946.6999999880791
+  yaw: -72.89996
+  pitch: -40.50001
+homes:
+  home:
+    world: world
+    x: -1621.9391888310831
+    y: 52.0
+    z: -944.231165409192
+    yaw: -106.04993
+    pitch: 25.799994
+logoutlocation:
+  world: world
+  x: -220.3520636157188
+  y: 64.0
+  z: 229.30000001192093
+  yaw: -230.91534
+  pitch: 25.308659
+afk: false
+nickname: Blackasin

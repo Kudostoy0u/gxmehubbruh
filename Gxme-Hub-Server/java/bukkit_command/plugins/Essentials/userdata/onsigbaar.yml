@@ -1,0 +1,28 @@
+timestamps:
+  login: 1645285477871
+  lastteleport: 1645285500546
+  logout: 1645285626162
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 68.13936067877101
+  y: 72.0
+  z: 212.5083249244808
+  yaw: 136.21066
+  pitch: 25.799992
+logoutlocation:
+  world: world
+  x: 51.016930444216214
+  y: 62.0
+  z: 344.1946968462346
+  yaw: 301.6607
+  pitch: 28.199995
+homes:
+  home:
+    world: world
+    x: 96.5106848481255
+    y: 83.0
+    z: 227.68667485192285
+    yaw: 95.410645
+    pitch: 29.250011
+nickname: Onsigbaar

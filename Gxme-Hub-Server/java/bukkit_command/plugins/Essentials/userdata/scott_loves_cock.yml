@@ -1,0 +1,23 @@
+timestamps:
+  login: 1643604063670
+  logout: 1643604079424
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -207.5
+  y: 66.0
+  z: 257.5
+  yaw: 0.0
+  pitch: 0.0
+ban:
+  reason: '§4Banned:
+
+    §rinapparitoated name and scott hater'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: -211.39098614072114
+  y: 69.0
+  z: 240.50472503140173
+  yaw: 181.66011
+  pitch: 5.6999927

@@ -1,0 +1,28 @@
+timestamps:
+  login: 1647299880729
+  lastteleport: 1647140023816
+  logout: 1647299925079
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -178.5
+  y: 66.0
+  z: 261.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: -3191.4005546790536
+    y: 64.0
+    z: 713.4378869036162
+    yaw: -114.29366
+    pitch: -2.8500087
+logoutlocation:
+  world: world
+  x: -205.2338389785385
+  y: 64.0
+  z: 248.6643724920162
+  yaw: 19.3601
+  pitch: 8.567572
+nickname: asdfqweotuw

@@ -1,0 +1,30 @@
+timestamps:
+  login: 1645622249228
+  lastteleport: 1645617674987
+  logout: 1645622446328
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -177.57928354779605
+  y: 61.0
+  z: 320.3718816191426
+  yaw: -91.35029
+  pitch: 19.349997
+afk: false
+homes:
+  home:
+    world: world
+    x: -175.5003724174906
+    y: 69.0
+    z: 305.9223853289649
+    yaw: -90.30029
+    pitch: 35.999996
+nickname: notch
+logoutlocation:
+  world: world
+  x: -171.55533520722454
+  y: 11.0
+  z: 392.30000001192093
+  yaw: -259.54614
+  pitch: 47.099995
+money: '3.0'

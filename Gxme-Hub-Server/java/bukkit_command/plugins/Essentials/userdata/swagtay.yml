@@ -1,0 +1,24 @@
+timestamps:
+  login: 1643601172088
+  logout: 1643602028988
+  lastteleport: 1643601979859
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -212.3053000760949
+  y: 21.0
+  z: 274.5530597530809
+  yaw: 11.110138
+  pitch: 31.80001
+logoutlocation:
+  world: world
+  x: -210.3046404383045
+  y: 67.0
+  z: 249.54926548148748
+  yaw: -0.5899048
+  pitch: 89.41758
+ban:
+  reason: '§4Banned:
+
+    §rsaid the n word'
+  timeout: 0

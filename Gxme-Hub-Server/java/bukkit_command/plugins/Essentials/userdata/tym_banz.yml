@@ -1,0 +1,30 @@
+timestamps:
+  login: 1647799035779
+  logout: 1647799040279
+  lastteleport: 1647438022798
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 823.6075096319025
+  y: 63.0
+  z: 2504.5030686011755
+  yaw: 122.17552
+  pitch: 28.837511
+logoutlocation:
+  world: world
+  x: 859.6301493946842
+  y: 64.0
+  z: 2486.237500011921
+  yaw: 167.7709
+  pitch: 7.350837
+afk: false
+homes:
+  home:
+    world: world
+    x: 860.3028735983077
+    y: 64.0
+    z: 2485.300000011921
+    yaw: -0.4500122
+    pitch: 40.650013
+nickname: tym_banz
+money: '100'

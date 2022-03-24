@@ -1,0 +1,29 @@
+timestamps:
+  login: 1647439190837
+  logout: 1647439241158
+  lastteleport: 1645225725540
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -205.1057617130821
+  y: 70.373125
+  z: 271.661060749482
+  yaw: -122.816795
+  pitch: 31.885406
+logoutlocation:
+  world: world
+  x: -135.7611025415154
+  y: 63.0
+  z: 297.28002993579526
+  yaw: -107.67987
+  pitch: 37.684124
+nickname: SHUTIT
+homes:
+  home:
+    world: world
+    x: 74.3900951431284
+    y: 80.0
+    z: -335.8970552996239
+    yaw: -70.89654
+    pitch: 30.040998
+afk: false

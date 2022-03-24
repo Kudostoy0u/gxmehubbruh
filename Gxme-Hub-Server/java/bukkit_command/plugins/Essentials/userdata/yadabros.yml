@@ -1,0 +1,25 @@
+timestamps:
+  login: 1643661579619
+  logout: 1643661696919
+  lastteleport: 1643660612614
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -208.30000001192093
+  y: 67.0
+  z: 249.23045191930552
+  yaw: -8.839906
+  pitch: 89.1
+logoutlocation:
+  world: world
+  x: -217.1812463680223
+  y: 67.0
+  z: 248.23795911293612
+  yaw: -223.33998
+  pitch: 4.817573
+afk: false
+ban:
+  reason: '§4Banned:
+
+    §rbanned untill we can verify your identityy'
+  timeout: 0

@@ -1,0 +1,24 @@
+timestamps:
+  login: 1643653468176
+  lastteleport: 1643653413693
+  logout: 1643653470593
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -210.3046404383045
+  y: 67.0
+  z: 249.54926548148748
+  yaw: -18.739906
+  pitch: 90.0
+logoutlocation:
+  world: world
+  x: 185.5
+  y: 70.00199847221374
+  z: 338.5
+  yaw: 206.86034
+  pitch: 41.55001
+ban:
+  reason: '§4Banned:
+
+    §rno spam'
+  timeout: 0

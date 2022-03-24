@@ -1,0 +1,38 @@
+timestamps:
+  login: 1647037112178
+  lastteleport: 1647037176773
+  logout: 1647038742559
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 1473.2100674235053
+  y: 9.5
+  z: 197.23074835609285
+  yaw: 276.0857
+  pitch: 31.949993
+homes:
+  home:
+    world: world
+    x: 1474.6180364434651
+    y: 68.0
+    z: 197.75375178521566
+    yaw: 290.18576
+    pitch: 63.000015
+logoutlocation:
+  world: world
+  x: 1469.4475069155737
+  y: 9.5
+  z: 199.30000001192093
+  yaw: 323.9356
+  pitch: 18.599993
+afk: false
+money: '576.25'
+ignore:
+- dumbitch
+- sexy_noob
+- theslimeking
+- pro234
+- old_man_69_
+- poooop
+- kingdrakodragon
+- iclapkids

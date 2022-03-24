@@ -1,0 +1,21 @@
+timestamps:
+  login: 1647816594967
+  logout: 1647819426306
+  lastteleport: 1647818165039
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -257.30396088130135
+  y: 17.464999987259507
+  z: 414.3370440873427
+  yaw: 234.29541
+  pitch: 87.367874
+logoutlocation:
+  world: world
+  x: -263.10123154651785
+  y: 72.0
+  z: 331.6936560244863
+  yaw: -92.08646
+  pitch: 4.5771112
+money: '1224.0'
+nickname: Drifter_Blade

@@ -1,0 +1,31 @@
+timestamps:
+  login: 1646411486953
+  lastteleport: 1646411671432
+  logout: 1646411494366
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -130.2413951772619
+  y: 18.0
+  z: -147.69999998807907
+  yaw: -95.165245
+  pitch: 22.949991
+logoutlocation:
+  world: world
+  x: -134.5
+  y: 63.0
+  z: -77.5
+  yaw: -274.56525
+  pitch: 13.949994
+afk: false
+ignore:
+- thiswillbefun
+- sussyballsedp445
+homes:
+  home:
+    world: world
+    x: -134.88763826463736
+    y: 63.0
+    z: -77.11329516366779
+    yaw: -247.56525
+    pitch: 47.699997

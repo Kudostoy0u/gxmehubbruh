@@ -1,0 +1,32 @@
+timestamps:
+  login: 1648156120112
+  lastteleport: 1648156701162
+  logout: 1648156130719
+  kits:
+    firework: 1648086885342
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -289996.59406037466
+  y: 72.7405521761163
+  z: 890009.5364824345
+  yaw: -170.04309
+  pitch: 63.75
+homes:
+  home:
+    world: world
+    x: 9128.575909211573
+    y: 80.0
+    z: -9003.85781257536
+    yaw: 44.13827
+    pitch: 67.65
+logoutlocation:
+  world: world
+  x: -57.08508581120926
+  y: 61.0
+  z: 545.6999999880791
+  yaw: 269.6071
+  pitch: 64.049995
+ban:
+  timeout: 0
+money: '6969420420'

@@ -1,0 +1,35 @@
+timestamps:
+  login: 1648159474985
+  logout: 1648158121686
+  lastteleport: 1648159586365
+  jail: 0
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 999979.9831147059
+  y: 58.0
+  z: 1000041.1517723427
+  yaw: -321.1306
+  pitch: 47.699997
+logoutlocation:
+  world: world
+  x: 999997.2844459647
+  y: 63.0
+  z: 1000036.7214201827
+  yaw: 1.6694031
+  pitch: 5.0999923
+afk: false
+homes:
+  home:
+    world: world
+    x: 1000016.3317716534
+    y: 63.0
+    z: 1000031.1374961468
+    yaw: -128.98065
+    pitch: 10.251371
+jailed: false
+ban:
+  reason: '§4Banned:
+
+    §rabusing op items'
+  timeout: 0

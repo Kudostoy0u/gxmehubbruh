@@ -1,0 +1,30 @@
+timestamps:
+  login: 1647476757326
+  logout: 1647476765975
+  lastteleport: 1646071706769
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -183.5
+  y: 65.0
+  z: 248.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -210.5
+  y: 65.0
+  z: 249.5
+  yaw: -2.9899013
+  pitch: 1.3675711
+homes:
+  home:
+    world: world_the_end
+    x: 62.85192412514797
+    y: 47.0
+    z: -10.559965227051823
+    yaw: 86.260315
+    pitch: 8.249993
+ignore:
+- vooleagl51
+money: '94.0'

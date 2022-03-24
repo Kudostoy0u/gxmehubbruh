@@ -1,0 +1,32 @@
+timestamps:
+  login: 1648136325954
+  logout: 1648136328354
+  lastteleport: 1648070876111
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -221.1366532841516
+  y: 75.11440656710059
+  z: 239.4877954925073
+  yaw: -93.25037
+  pitch: 57.6
+logoutlocation:
+  world: world
+  x: -211.44627464356049
+  y: 67.0
+  z: 256.1745662713789
+  yaw: 182.47958
+  pitch: 53.161148
+afk: false
+homes:
+  home:
+    world: world
+    x: -224.5135746898716
+    y: 108.0
+    z: 250.86112580628242
+    yaw: 181.18146
+    pitch: 36.049053
+ban:
+  timeout: 0
+ignore:
+- nocko

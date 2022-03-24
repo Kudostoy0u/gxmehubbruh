@@ -1,0 +1,24 @@
+timestamps:
+  login: 1643651239627
+  logout: 1643654314799
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -216.6242217512491
+  y: 67.0
+  z: 239.85932183937325
+  yaw: 78.9101
+  pitch: 10.967572
+logoutlocation:
+  world: world
+  x: -196.9590815314634
+  y: 68.4807108763317
+  z: 247.5193481412506
+  yaw: 187.8101
+  pitch: 22.199993
+afk: false
+ban:
+  reason: '§4Banned:
+
+    §rspawnkilling'
+  timeout: 0

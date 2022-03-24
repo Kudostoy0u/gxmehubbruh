@@ -1,0 +1,33 @@
+timestamps:
+  login: 1647474361732
+  logout: 1647474590562
+  lastteleport: 1647474148039
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -206.5
+  y: 64.0
+  z: 244.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world_nether
+  x: 961.8397612982882
+  y: 131.20000004768372
+  z: 1121.222389547349
+  yaw: -249.90186
+  pitch: 37.199997
+homes:
+  home:
+    world: world
+    x: 1719.300000011921
+    y: 59.0
+    z: -751.4075088433418
+    yaw: -156.687
+    pitch: 59.249996
+afk: false
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0

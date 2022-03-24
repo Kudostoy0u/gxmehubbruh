@@ -1,0 +1,30 @@
+timestamps:
+  login: 1647546158834
+  lastteleport: 1647546483388
+  logout: 1647547985072
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -210.49250382019562
+  y: 67.0
+  z: 249.91426754124666
+  yaw: -2.2399013
+  pitch: 0.91757107
+logoutlocation:
+  world: world
+  x: 377.30000001192093
+  y: 11.0
+  z: 760.6637139114838
+  yaw: 118.329346
+  pitch: 15.2999935
+afk: false
+homes:
+  home:
+    world: world
+    x: 406.7362351253922
+    y: 22.0
+    z: 628.7761365058966
+    yaw: 86.8291
+    pitch: 43.499996
+ignore:
+- i_hate_life

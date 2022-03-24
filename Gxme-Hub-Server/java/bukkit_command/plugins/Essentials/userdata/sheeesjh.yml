@@ -1,0 +1,22 @@
+timestamps:
+  login: 1643850577509
+  logout: 1643855228609
+  lastteleport: 1643855125593
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -327.30000001192093
+  y: 61.0
+  z: 160.61711225953113
+  yaw: -349.34012
+  pitch: 17.550009
+logoutlocation:
+  world: world
+  x: -223.69999998807907
+  y: 67.0
+  z: 256.69999998807907
+  yaw: -151.18991
+  pitch: 15.167573
+afk: false
+nickname: jones
+money: '38.0'

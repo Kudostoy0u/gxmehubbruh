@@ -1,0 +1,23 @@
+timestamps:
+  login: 1643584096738
+  logout: 1643584152287
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -201.5
+  y: 69.0
+  z: 260.5
+  yaw: 0.0
+  pitch: 0.0
+ban:
+  reason: '§4Banned:
+
+    §rracist'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: -208.0595675791267
+  y: 68.2531999805212
+  z: 252.74253120277422
+  yaw: 30.910126
+  pitch: 24.767574

@@ -1,0 +1,29 @@
+timestamps:
+  login: 1647031304870
+  logout: 1647031438469
+  lastteleport: 1647031436242
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -210.49250382019562
+  y: 71.0
+  z: 249.91426754124666
+  yaw: -2.3899014
+  pitch: 0.91757107
+logoutlocation:
+  world: world
+  x: -165.5
+  y: 7.0
+  z: 500.5
+  yaw: 260.2965
+  pitch: 15.749993
+afk: false
+homes:
+  home:
+    world: world
+    x: -165.14840149144172
+    y: 10.0
+    z: 500.51804343122785
+    yaw: 209.29651
+    pitch: 14.849994
+nickname: asdifhodfgliehawpqr

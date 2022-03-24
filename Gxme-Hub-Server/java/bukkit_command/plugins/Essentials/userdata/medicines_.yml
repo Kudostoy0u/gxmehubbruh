@@ -1,0 +1,33 @@
+timestamps:
+  login: 1648083218640
+  lastteleport: 1647885180067
+  logout: 1648083227347
+  jail: 0
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 200009.3160789864
+  y: 64.0
+  z: 200014.74419222542
+  yaw: -33.020107
+  pitch: 17.67789
+logoutlocation:
+  world: world
+  x: -210.53048390100417
+  y: 67.0
+  z: 252.44713075646982
+  yaw: -357.7686
+  pitch: 17.299055
+homes:
+  home:
+    world: world
+    x: 200003.55242357164
+    y: 64.0
+    z: 200008.77044667624
+    yaw: -319.07013
+    pitch: 12.427891
+afk: false
+jailed: false
+money: '7220.0'
+ignore:
+- raven

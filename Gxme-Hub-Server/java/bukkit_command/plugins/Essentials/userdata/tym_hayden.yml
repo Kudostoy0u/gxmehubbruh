@@ -1,0 +1,31 @@
+timestamps:
+  login: 1648079588380
+  lastteleport: 1647446428211
+  logout: 1648079598780
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -215.5
+  y: 67.0
+  z: 262.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: 6445.7024008440585
+    y: 50.0
+    z: -914.9518556961989
+    yaw: 357.66553
+    pitch: -3.1480253
+logoutlocation:
+  world: world
+  x: -210.5
+  y: 65.0
+  z: 249.5
+  yaw: 0.61009896
+  pitch: 2.2675712
+afk: false
+money: '64.0'
+ignore:
+- oblivion

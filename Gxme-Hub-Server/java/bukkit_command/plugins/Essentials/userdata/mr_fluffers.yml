@@ -1,0 +1,36 @@
+timestamps:
+  login: 1647138728925
+  logout: 1647139075524
+  lastteleport: 1647138445240
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -201.93843854707978
+  y: 71.0
+  z: 227.70120244039248
+  yaw: 294.79764
+  pitch: 85.95
+logoutlocation:
+  world: world
+  x: -201.93843854707978
+  y: 71.0
+  z: 227.70120244039248
+  yaw: 294.79764
+  pitch: 85.95
+money: '3053.0'
+homes:
+  home:
+    world: world
+    x: 3494.5
+    y: 11.0
+    z: 1147.5
+    yaw: 315.76022
+    pitch: 19.500013
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0
+afk: false
+ignore:
+- raven

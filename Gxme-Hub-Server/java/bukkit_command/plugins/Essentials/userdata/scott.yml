@@ -1,0 +1,25 @@
+timestamps:
+  login: 1643661874469
+  logout: 1643662744419
+  lastteleport: 1643662107383
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -6.699999988079072
+  y: 55.0
+  z: 46.605375344658874
+  yaw: -124.897964
+  pitch: 32.549995
+logoutlocation:
+  world: world
+  x: -419.08474588401526
+  y: 63.41466771356773
+  z: 206.38663531585266
+  yaw: 102.652565
+  pitch: 40.199997
+afk: false
+ban:
+  reason: '§4Banned:
+
+    §rHacking as far as I can tell, if your not hacking request in discord with proof'
+  timeout: 0

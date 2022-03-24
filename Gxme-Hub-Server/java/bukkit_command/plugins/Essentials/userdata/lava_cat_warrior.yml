@@ -1,0 +1,20 @@
+timestamps:
+  login: 1645202507190
+  lastteleport: 1645200624260
+  logout: 1645202901328
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -113.72948935660065
+  y: 72.0
+  z: 243.0991055800353
+  yaw: 241.66011
+  pitch: 19.667574
+nickname: lava_cat_warrior
+logoutlocation:
+  world: world
+  x: -195.68385362728864
+  y: 64.0
+  z: 407.30000001192093
+  yaw: -159.6466
+  pitch: 36.449997

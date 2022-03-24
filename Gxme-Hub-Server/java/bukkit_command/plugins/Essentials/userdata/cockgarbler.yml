@@ -1,0 +1,34 @@
+timestamps:
+  login: 1645808020821
+  lastteleport: 1645808517176
+  logout: 1645808583502
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -210.3046404383045
+  y: 67.0
+  z: 249.54926548148748
+  yaw: -0.5899048
+  pitch: 89.41758
+logoutlocation:
+  world: world
+  x: -931.6274111346362
+  y: 84.0
+  z: -200.51159410232458
+  yaw: -205.03978
+  pitch: 18.899994
+homes:
+  home:
+    world: world
+    x: -931.8567829176126
+    y: 82.0
+    z: -195.12343542992443
+    yaw: 70.51031
+    pitch: 33.899994
+money: '6.0'
+afk: false
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0

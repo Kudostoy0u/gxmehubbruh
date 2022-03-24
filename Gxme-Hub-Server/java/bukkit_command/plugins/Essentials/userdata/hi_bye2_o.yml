@@ -1,0 +1,30 @@
+timestamps:
+  login: 1647121679375
+  logout: 1647121690524
+  lastteleport: 1646930223104
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -530.5407140318318
+  y: 63.0
+  z: 95.14504122875233
+  yaw: -65.99026
+  pitch: 18.299994
+logoutlocation:
+  world: world
+  x: -530.3000000119209
+  y: 63.0
+  z: 95.14504122875233
+  yaw: -65.99026
+  pitch: 18.299994
+afk: false
+homes:
+  home:
+    world: world
+    x: -1056.2932020646017
+    y: 63.0
+    z: 1085.729017393174
+    yaw: 267.66418
+    pitch: -0.90000886
+nickname: hi_bye2_o
+money: '43014.0'

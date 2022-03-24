@@ -1,0 +1,20 @@
+timestamps:
+  login: 1646262316478
+  logout: 1646264425266
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -66.88010198000903
+  y: 64.0
+  z: -290.8159858421325
+  yaw: 12.3101
+  pitch: 16.067572
+logoutlocation:
+  world: world
+  x: -214.7643047768387
+  y: 39.0
+  z: 269.3909587525145
+  yaw: 195.02893
+  pitch: -71.4
+mail:
+- 'SkysBane: I figured out how to use this xD'

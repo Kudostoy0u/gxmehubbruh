@@ -1,0 +1,34 @@
+timestamps:
+  login: 1647871081116
+  logout: 1647871624486
+  lastteleport: 1647871603215
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -362.702623767878
+  y: 65.30421341792974
+  z: 394.1799555570666
+  yaw: -88.38727
+  pitch: 14.718743
+afk: false
+logoutlocation:
+  world: world
+  x: -210.53048390100417
+  y: 67.0
+  z: 252.44713075646982
+  yaw: -357.7686
+  pitch: 17.299055
+homes:
+  home:
+    world: world
+    x: -3556.3733691357556
+    y: 66.0
+    z: 1048.2563423959812
+    yaw: 1.7037964
+    pitch: 22.349993
+money: '200'
+ban:
+  reason: '§4Banned:
+
+    §rusing invis skin'
+  timeout: 0

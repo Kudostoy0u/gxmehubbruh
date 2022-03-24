@@ -1,0 +1,30 @@
+timestamps:
+  login: 1646242532728
+  lastteleport: 1646242692720
+  logout: 1646242742632
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 348.23750001192093
+  y: 21.0
+  z: 124.75536716257201
+  yaw: -63.300323
+  pitch: -5.2499943
+nickname: cat_warrior
+logoutlocation:
+  world: world
+  x: -220.34281436174987
+  y: 67.1707870772188
+  z: 247.7894334460792
+  yaw: -236.53992
+  pitch: 6.4499927
+afk: false
+homes:
+  home:
+    world: world
+    x: 356.8862433020755
+    y: 28.0
+    z: 133.01026664183902
+    yaw: -317.40027
+    pitch: 28.799995
+money: '3527.0'

@@ -1,0 +1,31 @@
+timestamps:
+  login: 1647863830345
+  lastteleport: 1647863881359
+  logout: 1647863911668
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -158.51479522766053
+  y: 63.0
+  z: 279.87257641529504
+  yaw: 290.41016
+  pitch: 8.599704
+money: '4888.0'
+homes:
+  home:
+    world: world
+    x: -1207.2440626173407
+    y: 10.0
+    z: 16.526936428250956
+    yaw: -246.95734
+    pitch: 10.615137
+afk: false
+logoutlocation:
+  world: world
+  x: 200002.9747979972
+  y: 64.0
+  z: 200007.45838585103
+  yaw: -21.643337
+  pitch: 41.10489
+ignore:
+- callmepognoob

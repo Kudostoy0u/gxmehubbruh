@@ -1,0 +1,32 @@
+timestamps:
+  login: 1648155371167
+  lastteleport: 1648156007660
+  logout: 1648156010719
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -209.9278455936786
+  y: 64.0
+  z: 238.52839144211777
+  yaw: -51.918556
+  pitch: 23.299055
+logoutlocation:
+  world: world
+  x: -210.83407766720458
+  y: 67.0
+  z: 253.29161015488265
+  yaw: -2.568573
+  pitch: 18.499056
+homes:
+  home:
+    world: world
+    x: 242.5
+    y: 41.5
+    z: 887.5
+    yaw: 284.632
+    pitch: 22.049994
+afk: false
+money: '21708.0'
+ignore:
+- pandi
+nickname: suep

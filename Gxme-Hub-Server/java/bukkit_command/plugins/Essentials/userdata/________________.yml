@@ -1,0 +1,25 @@
+timestamps:
+  login: 1648048346906
+  logout: 1648048377541
+  lastteleport: 1647982860266
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -210.53048390100417
+  y: 67.0
+  z: 252.44713075646982
+  yaw: -356.68918
+  pitch: 17.345985
+logoutlocation:
+  world: world
+  x: -216.32457301673386
+  y: 64.0
+  z: 259.2032141705896
+  yaw: -7.8660216
+  pitch: 5.457115
+afk: false
+ban:
+  reason: '§4Banned:
+
+    §rusing invis'
+  timeout: 0

@@ -1,0 +1,29 @@
+timestamps:
+  login: 1646276006458
+  lastteleport: 1646162167246
+  logout: 1646276055124
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 6.09331162314236
+  y: 33.0
+  z: 254.30000001192104
+  yaw: 335.05386
+  pitch: 13.649993
+homes:
+  home:
+    world: world
+    x: 6.449858678208609
+    y: 26.0
+    z: 263.30000001192093
+    yaw: 346.90384
+    pitch: 90.0
+afk: false
+logoutlocation:
+  world: world
+  x: 6.09331162314236
+  y: 33.0
+  z: 255.354600031379
+  yaw: 335.05386
+  pitch: 13.649993
+nickname: indianprinxcdxoxo

@@ -1,0 +1,21 @@
+timestamps:
+  login: 1646176216437
+  logout: 1646176874834
+  lastteleport: 1646176856712
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world_nether
+  x: -10.989174742040728
+  y: 70.0
+  z: 44.69999998807907
+  yaw: -17.837194
+  pitch: 32.868538
+logoutlocation:
+  world: world
+  x: -68.61672542383707
+  y: 72.0
+  z: 311.3063203752119
+  yaw: 245.1111
+  pitch: 37.47815
+afk: false
+nickname: WhosWhos

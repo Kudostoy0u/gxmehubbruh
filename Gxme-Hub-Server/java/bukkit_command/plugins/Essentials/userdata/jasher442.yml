@@ -1,0 +1,23 @@
+timestamps:
+  login: 1643593674553
+  logout: 1643593769561
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -210.5
+  y: 70.0
+  z: 223.5
+  yaw: 0.0
+  pitch: 0.0
+ban:
+  reason: '§4Banned:
+
+    §rpvp in spawn'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: -209.43756837029898
+  y: 67.0
+  z: 249.7509487884354
+  yaw: 112.660126
+  pitch: 19.667574

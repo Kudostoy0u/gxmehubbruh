@@ -1,0 +1,20 @@
+timestamps:
+  login: 1643650299972
+  logout: 1643650522304
+  lastteleport: 1643650383778
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -208.30000001192093
+  y: 58.328719504755014
+  z: 256.30230920177826
+  yaw: -48.58991
+  pitch: 75.91758
+logoutlocation:
+  world: world
+  x: -210.3046404383045
+  y: 64.0
+  z: 249.54926548148748
+  yaw: -0.5899048
+  pitch: 89.41758
+nickname: Mooshroo

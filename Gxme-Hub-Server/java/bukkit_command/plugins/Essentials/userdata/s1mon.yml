@@ -1,0 +1,20 @@
+timestamps:
+  login: 1643585788637
+  lastteleport: 1643585774549
+  logout: 1643585897287
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -207.69999998807907
+  y: 68.0
+  z: 288.88840124819546
+  yaw: -80.51077
+  pitch: 7.6365604
+logoutlocation:
+  world: world
+  x: -219.9236773039096
+  y: 65.0
+  z: 207.96856146978115
+  yaw: -186.90492
+  pitch: 68.39261
+nickname: thenword

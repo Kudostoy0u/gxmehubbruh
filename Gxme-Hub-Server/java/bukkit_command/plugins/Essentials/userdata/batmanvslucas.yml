@@ -1,0 +1,29 @@
+timestamps:
+  login: 1643838902859
+  logout: 1643838906109
+  lastteleport: 1643838268764
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -176.94657580450433
+  y: 71.0
+  z: 287.28152705141184
+  yaw: 77.11047
+  pitch: 14.249993
+logoutlocation:
+  world: world
+  x: -198.17278638267393
+  y: 71.0
+  z: 229.8589131846502
+  yaw: 19.905634
+  pitch: 36.49449
+homes:
+  home:
+    world: world
+    x: -164.8903833730498
+    y: 10.0
+    z: -189.37249344826364
+    yaw: 269.7101
+    pitch: 2.549992
+nickname: batmanvslucas
+afk: false
